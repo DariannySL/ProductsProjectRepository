@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Products Maxwell</string>
+    <string name="base_url">http://10.0.0.11:1337/</string>
+    <string name="access_token_key">access_token_key</string>
+    <string name="hint_email">Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LoginTextView">Login</string>
+    <string name="titleApp">Products Maxwell</string>
+    <string name="delete">Delete</string>
+    <string name="text_dialog">Do you want to permanently remove this product?</string>
+    <string name="cancel">Cancel</string>
+    <string name="model">Model</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="addProductButton">Save</string>
+    <string name="productsTextView">Product</string>
+    <string name="Delete">Delete</string>
+    <string name="password">Password</string>
+</resources>
